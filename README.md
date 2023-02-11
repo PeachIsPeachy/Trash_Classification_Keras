@@ -5,4 +5,4 @@ This model is designed to categorize waste materials into eleven distinct classi
   `pip install -r requirements.txt`
 * Dataset: https://drive.google.com/drive/folders/1A7DNRhtqqFsNJ-GbUlErPM7afjvDrpmi?usp=sharing
 # Help and Support  
-For any questions or concerns, feel free to contact [Boromei Chan](mailto:bormei.chan1208@gmail.com)
+For any questions or concerns, feel free to contact [Boromei Chan](mailto:boromei.chan@gmail.com)
